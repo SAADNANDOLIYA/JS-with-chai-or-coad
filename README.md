@@ -1,2 +1,2 @@
-# JS-with-chai-or-coad
+# JS-learning
 I am learning web developing
